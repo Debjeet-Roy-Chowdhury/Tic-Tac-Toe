@@ -2,7 +2,7 @@
 
 A classic, responsive Tic Tac Toe web game built using vanilla HTML5, CSS3, and JavaScript[cite: 5, 6, 7]. It features a 2-player turn system, automatic win/draw detection, and options to reset or start a new game[cite: 5, 6].
 
-[👉 Click Here to Play the Live Game](https://github.com/Debjeet-Roy-Chowdhury/Tic-Tac-Toe)
+[👉 Click Here to Play the Live Game](https://debjeet-roy-chowdhury.github.io/Tic-Tac-Toe/)
 
 ---
 
